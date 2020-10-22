@@ -6,4 +6,5 @@ class CreateArticles < ActiveRecord::Migration[5.1]
 
     end
   end
+  binding.pry 
 end
